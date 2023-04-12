@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Mohammed Maheer - aka [android-kunjappan](https://android-kunjapppan.github.io/Mohammed-Maheer/)
+# Hi there 👋, I'm Mohammed Maheer - aka [android-kunjappan](https://maheer23.github.io/)
 **Passionate Full-Stack Engineer with hands-on experience building scalable websites and applications. With diverse
 skills in front-end and back-end development, I'm dedicated to continuous improvement and aspire to become a topnotch Full-Stack Developer.**
 
