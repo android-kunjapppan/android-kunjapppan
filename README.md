@@ -1,8 +1,7 @@
 
 # Hi there 👋, I'm Mohammed Maheer - aka [android-kunjappan](https://android-kunjapppan.github.io/Mohammed-Maheer/)
 **Passionate Full-Stack Engineer with hands-on experience building scalable websites and applications. With diverse
-skills in front-end and back-end development, I'm dedicated to continuous improvement and aspire to become a topnotch Full-Stack Developer.
-**
+skills in front-end and back-end development, I'm dedicated to continuous improvement and aspire to become a topnotch Full-Stack Developer.**
 
 
 # I'm a Research and Development Engineer! 🚀
@@ -41,7 +40,7 @@ skills in front-end and back-end development, I'm dedicated to continuous improv
 <br/>
 
 # My stats ⚙️
-![Maheer's github stats](https://github-readme-stats.vercel.app/api?username=android-kunjapppan&show_icons=true&theme=radical)
+<!--.![Maheer's github stats](https://github-readme-stats.vercel.app/api?username=android-kunjapppan&show_icons=true&theme=radical)-->
 
 ### Reach out to me! 🕺🏼🏼
 [<img align="left" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://maheer23.github.io/)
